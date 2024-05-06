@@ -56,7 +56,7 @@ formulario.addEventListener("submit", event => {
 		`);
 
 
-		API.get("/posts").then(data => {
+		API.get("/posts?userId=1").then(data => {
 			console.log(data)
 		})
 
