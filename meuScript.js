@@ -53,7 +53,10 @@ formulario.addEventListener("submit", event => {
 		"afterbegin", `
 		<h2>${data.title}</h2> 
 		<p>${data.body}</p>
-		`);
+		`
+	);
+	titulo.value=""
+	conteudo.value=""
 
 
 		API.get("/posts?userId=1").then(data => {
