@@ -1,6 +1,6 @@
 # Simulação de post do Facebook  :postbox:
 
-Este é um projeto desenvolvido como parte do curso de __Desenvolvimento Web__. O foco deste projeto está no __Front-End__, utilizando __HTML__, __CSS__, __JavaScript__ e __consumo de API. A missão específica é avançar no desenvolvimento de páginas web estilizadas.
+Este é um projeto desenvolvido como parte do curso de __Desenvolvimento Web__. O foco deste projeto está no __Front-End__, utilizando __HTML__, __CSS__, __JavaScript__  e consumo de __API__. A missão específica é avançar no desenvolvimento de páginas web estilizadas.
 
 ## Conceitos Abordados
 #### Durante a realização deste projeto, foram abordados os seguintes conceitos:
